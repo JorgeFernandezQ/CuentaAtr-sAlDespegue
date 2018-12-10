@@ -1,0 +1,7 @@
+C:\Users\FAM\source\repos\WCFApp\WCFApp\bin\WCFApp.dll.config
+C:\Users\FAM\source\repos\WCFApp\WCFApp\bin\WCFApp.dll
+C:\Users\FAM\source\repos\WCFApp\WCFApp\bin\WCFApp.pdb
+C:\Users\FAM\source\repos\WCFApp\WCFApp\obj\Debug\WCFApp.csprojAssemblyReference.cache
+C:\Users\FAM\source\repos\WCFApp\WCFApp\obj\Debug\WCFApp.csproj.CoreCompileInputs.cache
+C:\Users\FAM\source\repos\WCFApp\WCFApp\obj\Debug\WCFApp.dll
+C:\Users\FAM\source\repos\WCFApp\WCFApp\obj\Debug\WCFApp.pdb
